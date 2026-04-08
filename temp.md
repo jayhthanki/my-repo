@@ -3,3 +3,5 @@ This is a temporary file to verify that spokesctl server replace comman has work
 Testing second time.
 
 Another push
+
+Time for another push
